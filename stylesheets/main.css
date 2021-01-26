@@ -1,12 +1,69 @@
 h1 {
   color: white;
-  background-color:rgb(201, 0, 0);
-  font: bold sans-serif;
+  background-color:rgb(180, 0, 0);
+  font-weight: bold;
+  font-size: 1.562em;
+  font-family: Helvetica, sans-serif;
+  text-align: left;
+}
 
+.login {
+  /* color: white; */
+  background-color:rgb(180, 0, 0);
+  font-weight: bold;
+  font-size: 1.562em;
+  font-family: Helvetica, sans-serif;
+  text-align: right;
+}
+
+.login a{
+  color: white;
+}
+
+.navbar {
+  background-color:rgb(60, 60, 60);
+  font-size: 0.5em;
+  font-family: Helvetica, sans-serif;
+  text-align: right;
+  word-spacing: 10px;
+}
+
+.navbar a {
+  color: white;
+}
+
+.denver-art-museum-img {
+  float: left;
+  width: 70%;
+}
+
+.side {
+  float: right;
+  width: 25%;
 }
 
 h3 {
-  color:black;
-  background-color: white;
   font-weight: bold;
+  font-size: 1.25em;
+  font-family: Helvetica, sans-serif;
+}
+
+h4 {
+  font-weight: bold;
+  font-size: 1.0em;
+  font-family: Helvetica, sans-serif;
+}
+
+.main-content {
+  float: left;
+  width: 60%;
+}
+
+footer {
+  float: left;
+  width: 100%;
+  color: white;
+  background-color:rgb(60, 60, 60);
+  font-size: 0.6em;
+  font-family: Helvetica, sans-serif;
 }
